@@ -10,5 +10,4 @@
 caravel/
 caravel_venv/
 dependencies/
-docker_fix.sh
 mgmt_core_wrapper/
